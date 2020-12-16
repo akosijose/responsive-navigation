@@ -111,7 +111,7 @@ nav .burger div {
 }
 
 .nav-active {
-  -webkit-transform: translateX(0px);
-          transform: translateX(0px);
+  -webkit-transform: translateX(0%);
+          transform: translateX(0%);
 }
 /*# sourceMappingURL=style.css.map */
